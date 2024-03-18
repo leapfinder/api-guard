@@ -22,8 +22,8 @@
     ],
     "require": {
         "php": ">=7.4",
-        "illuminate/support": "^6.0",
-        "illuminate/database": "^6.0",
+        "illuminate/support": "^11.0",
+        "illuminate/database": "^11.0",
         "ellipsesynergie/api-response": "*"
     },
     "require-dev": {
